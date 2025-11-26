@@ -19,7 +19,7 @@
 - 🤝 协作沟通：▰▰▰▰▱▱▱▱▱▱ 40%（近期以独立开发为主）
 
 ### 状态标签
-> 点击标签可跳转（如需），或仅作为视觉标识
+> 点击标签可跳转
 [![状态：高效开发](https://img.shields.io/badge/状态-高效开发-brightgreen?style=for-the-badge&logo=dev.to)](https://github.com/hmmnxkl)
 [![兴趣：AI/LLM](https://img.shields.io/badge/兴趣-AI%2FLLM-purple?style=for-the-badge&logo=openai)](https://github.com/hmmnxkl)
 [![模式：深度思考](https://img.shields.io/badge/模式-深度思考-blue?style=for-the-badge&logo=brain)](https://github.com/hmmnxkl)
